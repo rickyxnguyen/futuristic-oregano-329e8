@@ -1,7 +1,7 @@
 {
     "title": "Growth Mortgage",
     "path_prefix": "/",
-    "palette": "violet",
+    "palette": "grey",
     "header": {
         "title": "Libris",
         "logo_img": "images/logo.svg",
