@@ -62,6 +62,7 @@ models:
           - green
           - navy
           - violet
+          -grey
         default: blue
         required: true
       - type: model
